@@ -1,3 +1,5 @@
+This syllabus lives at http://bit.do/gads101
+
 # Learning Objectives
 - Explain the field of data science, defining common roles, benefits, and trends.
 - Explore some popular tools and resources to visualize, analyze, and model data.
